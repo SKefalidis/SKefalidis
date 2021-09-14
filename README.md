@@ -5,3 +5,10 @@ I'm an undergraduate student at the University of Athens (also known as the Nati
 - 📫 How to reach me: 
   - Telegram: @SKefalidis 
   - Matrix-Element: @sergios_kefalidis
+
+
+You can see my most significant open source work at:
+- Thunar Merge Requests: https://gitlab.xfce.org/xfce/thunar/-/merge_requests?scope=all&state=all&author_username=SKefalidis
+- xfce4-terminal repository: https://gitlab.xfce.org/apps/xfce4-terminal
+- MuseScore: https://github.com/musescore/MuseScore/pulls?q=+is%3Apr+author%3ASKefalidis+
+- Youtube videos showcasing my work and various progress updates: https://www.youtube.com/channel/UCu8-J-XWcXQhoCopBiJ5-uw
