@@ -7,7 +7,7 @@ I'm an undergraduate student at the University of Athens (also known as the Nati
   - Matrix-Element: @sergios_kefalidis
 
 
-You can see my most significant open source work at:
+You can see my most significant open source contributions at:
 - Thunar Merge Requests: https://gitlab.xfce.org/xfce/thunar/-/merge_requests?scope=all&state=all&author_username=SKefalidis
 - xfce4-terminal repository: https://gitlab.xfce.org/apps/xfce4-terminal
 - MuseScore: https://github.com/musescore/MuseScore/pulls?q=+is%3Apr+author%3ASKefalidis+
