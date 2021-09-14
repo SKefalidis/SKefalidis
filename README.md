@@ -1,4 +1,4 @@
-I'm a student at the University of Athens (also known as the National and Kapodistrian University of Athens).
+I'm an undergraduate student at the University of Athens (also known as the National and Kapodistrian University of Athens).
 
 - I'm currently the Maintainer of xfce4-terminal and an active developer of Thunar.
 - Compilers and Operating Systems are my main areas of interest.
