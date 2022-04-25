@@ -5,7 +5,7 @@ I'm an undergraduate Computer Science student at the University of Athens (also 
 - 📫 How to reach me: 
   - Telegram: @SKefalidis 
   - Matrix-Element: @sergios_kefalidis
-
+  - the_handle_of_this_account [at] xfce.org
 
 You can see my most significant open source contributions at:
 - xfce4-terminal repository: https://gitlab.xfce.org/apps/xfce4-terminal
