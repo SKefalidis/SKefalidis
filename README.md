@@ -1,6 +1,6 @@
 # Welcome 👋
 
-My name is Sergios and I am an **AI Researcher** and **PhD candidate** at the National and Kapodistrian University of Athens. 
+My name is Sergios and I am an **AI Researcher** and Computer Science **PhD candidate**. 
 
 I work at the [AI-team](https://ai.di.uoa.gr/) at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of the [National and Kapodistrian University of Athens](https://www.uoa.gr/), under professor Manolis Koubarakis.
 
