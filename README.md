@@ -1,6 +1,8 @@
 # Welcome 👋
 
-My name is Sergios and I am an AI Researcher and PhD candidate at the National and Kapodistrian University of Athens. My research is currently focused in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
+My name is Sergios and I am an **AI Researcher** and **PhD candidate** at the National and Kapodistrian University of Athens. 
+
+My research is currently focused in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
 
 
 I also like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
