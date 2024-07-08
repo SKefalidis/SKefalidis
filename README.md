@@ -2,7 +2,7 @@
 
 My name is Sergios and I am an **AI Researcher** and Computer Science **PhD candidate**. 
 
-I work at the [AI-team](https://ai.di.uoa.gr/) at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of the [National and Kapodistrian University of Athens](https://www.uoa.gr/), under professor Manolis Koubarakis.
+I work at the [AI-team](https://ai.di.uoa.gr/) in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of the [National and Kapodistrian University of Athens](https://www.uoa.gr/), under professor Manolis Koubarakis.
 
 My research lies in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
 
