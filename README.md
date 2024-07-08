@@ -7,7 +7,7 @@ I also like contributing to Open Source projects, playing the piano, and hiking.
 
 <h2>Open Source Contributions 👨🏻‍💻</h2>
 
-For quite a few years I spent many of my evenings making contributions to open-source software projects. In addition to that, I participated in Google Summer of Code in [2020](https://musescore.org/en/user/2522066/blog/2020/08/26/gsoc-2020-albums-summary), [2021](http://users.uoa.gr/~sdi1800073/sources/xfce_blog05.html), and [2022](https://elessar-space.blogspot.com/2022/05/a-journey-begins-gsoc-2022.html), the first two times as a contributor and the last one as a mentor. 
+For quite a few years I spent many of my evenings making contributions to open-source software projects. In addition to that, I participated in **Google Summer of Code** in [2020](https://musescore.org/en/user/2522066/blog/2020/08/26/gsoc-2020-albums-summary), [2021](http://users.uoa.gr/~sdi1800073/sources/xfce_blog05.html), and [2022](https://elessar-space.blogspot.com/2022/05/a-journey-begins-gsoc-2022.html), the first two times as a contributor and the last one as a mentor. 
 
 During this time I made significant contributions to [Xfce](https://xfce.org/) and [MuseScore](https://musescore.org/en), fixing dozens of bugs and addressing multiple feature requests. For around one year and a half, I was also the **maintainer** of Xfce4-terminal. 
 
@@ -33,7 +33,7 @@ See more about my contributions in Xfce4-terminal, Thunar, and MuseScore:
 
 <h2>Research 🔬</h2>
 
-My research is currently focused on Geospatial Question-Answering. As part of my work, I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
+My research is currently focused on **Geospatial Question-Answering**. As part of my work, I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
 
 I am currently working on the next generation of Geospatial Question-Answering, in the context of the European projects [DA4DTE](http://da4dte.e-geos.earth/) and [STELAR](https://stelar-project.eu/).
 
