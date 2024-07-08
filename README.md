@@ -33,7 +33,7 @@ See more about my contributions in Xfce4-terminal, Thunar, and MuseScore:
 
 <h2>Research 🔬</h2>
 
-My research is currently focused on **Geospatial Question-Answering**. As part of my work, I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
+My research is currently focused on **Geospatial Question-Answering**. As part of my work in the [AI-team](https://ai.di.uoa.gr/), I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
 
 I am currently working on the next generation of Geospatial Question-Answering, in the context of the European projects [DA4DTE](http://da4dte.e-geos.earth/) and [STELAR](https://stelar-project.eu/).
 
