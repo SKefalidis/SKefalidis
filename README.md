@@ -1,11 +1,11 @@
-# Welcome
+# Welcome 👋
 
 My name is Sergios and I am an AI Researcher and PhD candidate at the National and Kapodistrian University of Athens. My research is currently focused in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
 
 
 I also like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
 
-<h2>Open Source Contributions</h2>
+<h2>Open Source Contributions 👨🏻‍💻</h2>
 
 For quite a few years I spent many of my evenings making contributions to open-source software projects. In addition to that, I participated in Google Summer of Code in [2020](https://musescore.org/en/user/2522066/blog/2020/08/26/gsoc-2020-albums-summary), [2021](http://users.uoa.gr/~sdi1800073/sources/xfce_blog05.html), and [2022](https://elessar-space.blogspot.com/2022/05/a-journey-begins-gsoc-2022.html), the first two times as a contributor and the last one as a mentor. 
 
@@ -31,7 +31,7 @@ See more about my contributions in Xfce4-terminal, Thunar, and MuseScore:
   
 </p>
 
-<h2>Research</h2>
+<h2>Research 🔬</h2>
 
 My research is currently focused on Geospatial Question-Answering. As part of my work, I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
 
@@ -48,7 +48,7 @@ I am currently working on the next generation of Geospatial Question-Answering, 
     <img src="https://github.com/AI-team-UoA/GeoQuestions1089/raw/main/logo/geoquestions1089_logo_2.png" width="230px"/>
   </a>  
 
-<h2>Links</h2>
+<h2>Links 🔗</h2>
 
 <p align="center">
   
