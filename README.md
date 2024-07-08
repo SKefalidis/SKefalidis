@@ -7,7 +7,7 @@ I work at the [AI-team](https://ai.di.uoa.gr/) and [MaDgIK lab](https://www.madg
 My research lies in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
 
 
-I also like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
+In addition, I like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
 
 <h2>Open Source Contributions 👨🏻‍💻</h2>
 
