@@ -4,7 +4,7 @@ My name is Sergios and I am an **AI Researcher** and **PhD candidate** at the Na
 
 I work at the [AI-team](https://ai.di.uoa.gr/) at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of the [National and Kapodistrian University of Athens](https://www.uoa.gr/), under professor Manolis Koubarakis.
 
-My research is currently focused in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
+My research lies in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
 
 
 I also like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
@@ -37,7 +37,7 @@ See more about my contributions in Xfce4-terminal, Thunar, and MuseScore:
 
 <h2>Research 🔬</h2>
 
-My research is currently focused on **Geospatial Question-Answering**. As part of my work in the [AI-team](https://ai.di.uoa.gr/), I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
+The main focus of my research activity is **Geospatial Question-Answering**. As part of my work in the [AI-team](https://ai.di.uoa.gr/), I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
 
 I am currently working on the next generation of Geospatial Question-Answering, in the context of the European projects [DA4DTE](http://da4dte.e-geos.earth/) and [STELAR](https://stelar-project.eu/).
 
