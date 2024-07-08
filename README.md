@@ -17,7 +17,7 @@ During this time I made significant contributions to [Xfce](https://xfce.org/) a
 
 Nowadays I focus on producing high-quality, open-source research related to the Semantic Web and Question-Answering. I strive to make all of my work easily accessible and documented to be as useful as possible to as many people as possible.
 
-See more about my contributions in Xfce4-terminal, Thunar, and MuseScore:
+See more about my contributions to Xfce4-terminal, Thunar, and MuseScore:
 
 <p align="center" text-align="center">
   
