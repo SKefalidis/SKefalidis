@@ -22,15 +22,15 @@ See more about my contributions to Xfce4-terminal, Thunar, and MuseScore:
 <p align="center" text-align="center">
   
   <a href="https://gitlab.xfce.org/apps/xfce4-terminal/-/commits/master?author=Sergios%20-%20Anestis%20Kefalidis">
-    <img src="https://gitlab.xfce.org/uploads/-/system/project/avatar/35/utilities-terminal.png" width="200px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Org.xfce.terminal.svg/1280px-Org.xfce.terminal.svg.png?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail" width="200px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="https://gitlab.xfce.org/xfce/thunar/-/merge_requests?scope=all&state=all&author_username=SKefalidis">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Thunar.svg/640px-Thunar.svg.png" width="200px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Thunar.svg/1280px-Thunar.svg.png" width="200px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Askefalidis+">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/MuseScore_logo.png" width="200px"/>
+    <img src="https://www.scoringnotes.com/wp-content/uploads/2018/12/musescore-3-logo.png" width="200px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;  
   
 </p>
