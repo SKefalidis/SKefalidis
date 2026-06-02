@@ -4,10 +4,9 @@ My name is Sergios and I am an **AI Researcher** and Computer Science **PhD cand
 
 I work at the [AI-team](https://ai.di.uoa.gr/) and [MaDgIK lab](https://www.madgik.di.uoa.gr/) in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of the [National and Kapodistrian University of Athens](https://www.uoa.gr/), under professor Manolis Koubarakis.
 
-My research mainly lies in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. I'm also interested in Operating Systems and Compilers.
+My research mainly lies in the areas of _Question-Answering_, _Natural Language Processing_, _Large Language Models_, and the _Semantic Web_. When I have the time I like to think about _Operating Systems_.
 
-
-In addition, I like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
+In my free time, I like contributing to Open Source projects, playing the piano, and hiking. You can learn more about me on my [webpage](http://users.uoa.gr/~skefalidis/).
 
 <h2>Open Source Contributions 👨🏻‍💻</h2>
 
@@ -37,12 +36,18 @@ See more about my contributions to Xfce4-terminal, Thunar, and MuseScore:
 
 <h2>Research 🔬</h2>
 
-The main focus of my research activity is **Geospatial Question-Answering**. As part of my work in the [AI lab](https://ai.di.uoa.gr/) of the Department of Informatics and Telecommunications of the University of Athens, I've made contributions to the [GeoQA](https://github.com/AI-team-UoA/GeoQA) question-answering engine and I led the development of the dataset [GeoQuestions1089](https://github.com/AI-team-UoA/GeoQuestions1089). 
+The main focus of my research activity is **Knowledge Graph Question-Answering**.
 
-I am currently working on the next generation of Geospatial Question-Answering, in the context of the European projects [DA4DTE](http://da4dte.e-geos.earth/) and [STELAR](https://stelar-project.eu/).
+As part of my work in the [AI lab](https://ai.di.uoa.gr/) of the Department of Informatics and Telecommunications of the University of Athens, I have worked on multiple question-answering systems used in national and EU-funded projects 
+([DA4DTE](http://da4dte.e-geos.earth/), [STELAR](https://stelar-project.eu/), [GeoQA](https://geoqa.di.uoa.gr/)).
 
+I am currently working on the next generation of KG-agnostic Question-Answering, in the context of the European project [FAIR2ADAPT](https://fair2adapt-eosc.eu/).
 
 <p align="center" text-align="center">
+
+  <a href="https://github.com/SKefalidis/PYTHIA">
+    <img src="https://github.com/SKefalidis/PYTHIA/blob/main/pythia_icon.png?raw=true" width="200px"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://github.com/AI-team-UoA/GeoQA">
     <img src="https://github.com/AI-team-UoA/GeoQA2/raw/main/GEOQA_logo.png?raw=true" width="200px"/>
