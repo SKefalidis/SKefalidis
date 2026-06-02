@@ -43,6 +43,8 @@ As part of my work in the [AI lab](https://ai.di.uoa.gr/) of the Department of I
 
 I am currently working on the next generation of KG-agnostic Question-Answering, in the context of the European project [FAIR2ADAPT](https://fair2adapt-eosc.eu/).
 
+See more about my research:
+
 <p align="center" text-align="center">
 
   <a href="https://github.com/SKefalidis/PYTHIA">
