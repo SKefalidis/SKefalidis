@@ -51,10 +51,6 @@ See more about my research:
     <img src="https://github.com/SKefalidis/PYTHIA/blob/main/pythia_icon.png?raw=true" width="200px"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://github.com/AI-team-UoA/GeoQA">
-    <img src="https://github.com/AI-team-UoA/GeoQA2/raw/main/GEOQA_logo.png?raw=true" width="200px"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-  
   <a href="https://github.com/AI-team-UoA/GeoQuestions1089">
     <img src="https://github.com/AI-team-UoA/GeoQuestions1089/raw/main/logo/geoquestions1089_logo_2.png" width="230px"/>
   </a>  
